@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Olá 👋, sou o Rafael Frota</h1>
-<h3 align="center">Sou formado em técnico em informática e estou cursando sistemas da informação, me especializando cada vez mais como desenvolvedor Full-Stack estudando (HTML, CSS, JavaScript, Firebase, MySql, JQuery, Bootstrap, PHP, Python), atualmente estou a procura de oportunidades da aréa para somar.</h3>
+<h3 align="center">Sou formado em sistemas da informação, me especializando cada vez mais como desenvolvedor Full-Stack estudando (JavaScript, Firebase, MySql, JQuery, Bootstrap, PHP, Python).</h3>
 
 - 🌱 Estou me especializando em Flask, e JavaScript.
 - 😄 Sempre em busca de aprender novas tecnologias.
